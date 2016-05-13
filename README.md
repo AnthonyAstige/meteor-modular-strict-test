@@ -9,4 +9,4 @@ packagejson/not-strict.js is NOT-STRICT
 packagejson/strict.js is STRICT
 ```
 
-See https://github.com/meteor/meteor/issues/7050
+I expect all to output STRICT - See https://github.com/meteor/meteor/issues/7050
