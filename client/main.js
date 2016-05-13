@@ -1,1 +1,2 @@
-import '/imports/modumule';
+import '/imports/indexjs';
+import '/imports/packagejson';
