@@ -8,3 +8,5 @@ indexjs/strict.js is STRICT
 packagejson/not-strict.js is NOT-STRICT
 packagejson/strict.js is STRICT
 ```
+
+See https://github.com/meteor/meteor/issues/7050
