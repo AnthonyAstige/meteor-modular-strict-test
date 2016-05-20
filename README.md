@@ -2,7 +2,7 @@
 
 Run on client and server shows
 
-```                  
+```
 indexjs/not-strict.js is NOT STRICT
 indexjs/strict.js is STRICT
 packagejson/not-strict.js is NOT-STRICT
